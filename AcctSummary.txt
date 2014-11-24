@@ -1,0 +1,43 @@
+Account Number:	 40239
+Account Type:	 Checking
+Customer Name:	 Charles Xavier
+Customer Type:	 premier
+Account Balance: $31000.35
+
+Account Number:	 20925
+Account Type:	 Savings
+Customer Name:	 Scott Summers
+Customer Type:	 Value
+Account Balance: $345.89
+
+Account Number:	 21354
+Account Type:	 Savings
+Customer Name:	 Robert Drake
+Customer Type:	 advantage
+Account Balance: $1235.23
+
+Account Number:	 45687
+Account Type:	 Checking
+Customer Name:	 Warren Worthington
+Customer Type:	 Advantage
+Account Balance: $675.98
+
+Account Number:	 43234
+Account Type:	 Checking
+Customer Name:	 Henry McCoy
+Customer Type:	 Premier
+Account Balance: $24576.76
+
+Account Number:	 21356
+Account Type:	 Savings
+Customer Name:	 Jean Grey
+Customer Type:	 Premier
+Account Balance: $12678.45
+
+Account Number:	 40123
+Account Type:	 Checking
+Customer Name:	 Lorna Dane
+Customer Type:	 value
+Account Balance: $1105.78
+
+Total of all balances: $71618.44
